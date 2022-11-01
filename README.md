@@ -2,7 +2,7 @@
 
 本demo旨在 gin连接数据库，实现简单的增删改查
 
-忻辰个人博客：https://www.ixinjiu.cn
+**忻辰个人博客**：https://www.ixinjiu.cn
 
 ---
 
